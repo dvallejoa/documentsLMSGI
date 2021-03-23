@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="football">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="player" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="player">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="mail" type="xs:string"/>
+        <xs:element name="name" type="xs:string"/>
+        <xs:element name="age" type="xs:string"/>
+        <xs:element ref="height"/>
+        <xs:element name="nationality" type="xs:string"/>
+        <xs:element name="team" type="xs:string"/>
+        <xs:element ref="characteristics"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="height">
+    <xs:complexType mixed="true">
+      <xs:attribute name="unit" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="characteristics">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="picture" type="xs:string"/>
+        <xs:element name="like" type="xs:string"/>
+        <xs:element name="language" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../css/styles.css"?>
+  <football>
+                              <player>
+                                  <mail>j.cn.etm.pvy.utmb.fbtq@gmail.com</mail>
+                                  <name> Lionel Andrés Messi Cuccitini</name>
+                                  <age>33</age>
+                                  <height unit="cm">170</height>
+                                  <nationality>Argentina</nationality>
+                                  <team>Barcelona</team>
+                                  <characteristics>
+                                            <picture>https://i.imgur.com/iD3IzFH.jpg</picture>
+                                            <like>Su desborde en el interior del área y su definición de cara a puerta.</like>
+                                            <language>Castellano</language>
+                                  </characteristics>
+                              </player>
+                              <player>
+                                  <mail>ste.lla.f.o.r.tun.ata.tmp@gmail.com</mail>
+                                  <name> Anssumane Fati</name>
+                                  <age>17</age>
+                                  <height unit="cm">178</height>
+                                  <nationality>España</nationality>
+                                  <team>Barcelona</team>
+                                  <characteristics>
+                                            <picture>https://i.imgur.com/pAE3Kr2.jpg</picture>
+                                            <like>És molt jove i té molt futur per davant, demostra moltes ganes a l'hora de jugar..</like>
+                                            <language>Català</language>
+                                  </characteristics>
+                              </player>
+                              <player>
+                                  <mail>nylatmp+uhcmm@gmail.com</mail>
+                                  <name> Anssumane Fati</name>
+                                  <age>17</age>
+                                  <height unit="cm">178</height>
+                                  <nationality>España</nationality>
+                                  <team>Barcelona</team>
+                                  <characteristics>
+                                            <picture>https://i.imgur.com/kEyZQdZ.jpg</picture>
+                                            <like>Es el futuro del Fútbol Club Barcelona.</like>
+                                            <language>Castellano</language>
+                                  </characteristics>
+                              </player>
+                              <player>
+                                  <mail>Dvz36750@gmail.com</mail>
+                                  <name> Fede Valverde</name>
+                                  <age>22</age>
+                                  <height unit="cm">182</height>
+                                  <nationality>España</nationality>
+                                  <team>Real Madrid</team>
+                                  <characteristics>
+                                            <picture>https://i.imgur.com/jbfAbwZ.png</picture>
+                                            <like>Es muy guapo</like>
+                                            <language>Castellano</language>
+                                  </characteristics>
+                              </player>
+                              <player>
+                                  <mail>zaidhk10@gmail.com</mail>
+                                  <name>Frenkie De Jong</name>
+                                  <age>23</age>
+                                  <height unit="cm">180</height>
+                                  <nationality>Países Bajos</nationality>
+                                  <team>Barcelona</team>
+                                  <characteristics>
+                                            <picture>https://i.imgur.com/pAE3Kr2.jpg</picture>
+                                            <like>Su visión de juego.</like>
+                                            <language>Castellano</language>
+                                  </characteristics>
+                              </player>
+                              <player>
+                                  <mail>Mitulade2cm@gmail.com</mail>
+                                  <name> Lioneeeeeel Andreeees Messiiiii</name>
+                                  <age>33</age>
+                                  <height unit="cm">170</height>
+                                  <nationality>Argentina</nationality>
+                                  <team>Barcelona</team>
+                                  <characteristics>
+                                            <picture>https://i.imgur.com/iD3IzFH.jpg</picture>
+                                            <like>La clase, set la classss migo</like>
+                                            <language>Castellano</language>
+                                  </characteristics>
+                              </player>
+                              <player>
+                                  <mail>jsd92938@gmail.com</mail>
+                                  <name> Sergio Ramos</name>
+                                  <age>34</age>
+                                  <height unit="cm">184</height>
+                                  <nationality>España</nationality>
+                                  <team>Real Madrid</team>
+                                  <characteristics>
+                                            <picture>https://i.imgur.com/siC5lzz.jpg</picture>
+                                            <like>Es de los mejores defensas del mundo, liderazgo y mucha garra.</like>
+                                            <language>Castellano</language>
+                                  </characteristics>
+                              </player>
+                              <player>
+                                  <mail>javier.garcia.161005@gmail.com </mail>
+                                  <name>  Lionel Andrés Messi Cuccitini</name>
+                                  <age>33</age>
+                                  <height unit="cm">170</height>
+                                  <nationality>Argentina</nationality>
+                                  <team>Barcelona</team>
+                                  <characteristics>
+                                            <picture>https://i.imgur.com/EiMsF9Y.jpg</picture>
+                                            <like>Su estilo de juego </like>
+                                            <language>Castellano</language>
+                                  </characteristics>
+                              </player>
+                              <player>
+                                  <mail>snabagen9@gmail.com</mail>
+                                  <name>Karim Benzema</name>
+                                  <age>32</age>
+                                  <height unit="cm">185</height>
+                                  <nationality>Francia</nationality>
+                                  <team>Real Madrid</team>
+                                  <characteristics>
+                                            <picture>https://i.imgur.com/HgGYNJl.jpg</picture>
+                                            <like>Su estilo de juego </like>
+                                            <language>Castellano</language>
+                                  </characteristics>
+                              </player>
+</football>

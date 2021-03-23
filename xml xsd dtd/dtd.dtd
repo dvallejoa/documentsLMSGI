@@ -1,0 +1,12 @@
+<!ELEMENT football (player*)>
+<!ELEMENT player(mail, name, age, height, nationality, team, characteristics)>
+<!ELEMENT mail (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT height (#PCDATA)>
+<!ELEMENT nationality (#PCDATA)>
+<!ELEMENT team (street, num, cp)>
+<!ELEMENT characteristics (picture, like, language)>
+<!ELEMENT picture (#PCDATA)>
+<!ELEMENT like (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
