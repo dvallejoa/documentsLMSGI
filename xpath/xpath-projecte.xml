@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<consultes>
+  <consulta1>
+    <player>
+      <mail>j.cn.etm.pvy.utmb.fbtq@gmail.com</mail>
+      <name>Lionel Andrés Messi Cuccitini</name>
+      <age>33</age>
+      <height unit="cm">170</height>
+      <nationality>Argentina</nationality>
+      <team>Barcelona</team>
+      <characteristics>
+        <picture>https://i.imgur.com/iD3IzFH.jpg</picture>
+        <like>Su desborde en el interior del área y su definición de cara a puerta.</like>
+        <language>Castellano</language>
+      </characteristics>
+    </player>
+    <player>
+      <mail>Mitulade2cm@gmail.com</mail>
+      <name>Lioneeeeeel Andreeees Messiiiii</name>
+      <age>33</age>
+      <height unit="cm">170</height>
+      <nationality>Argentina</nationality>
+      <team>Barcelona</team>
+      <characteristics>
+        <picture>https://i.imgur.com/iD3IzFH.jpg</picture>
+        <like>La clase, set la classss migo</like>
+        <language>Castellano</language>
+      </characteristics>
+    </player>
+    <player>
+      <mail>javier.garcia.161005@gmail.com</mail>
+      <name>Lionel Andrés Messi Cuccitini</name>
+      <age>33</age>
+      <height unit="cm">170</height>
+      <nationality>Argentina</nationality>
+      <team>Barcelona</team>
+      <characteristics>
+        <picture>https://i.imgur.com/EiMsF9Y.jpg</picture>
+        <like>Su estilo de juego</like>
+        <language>Castellano</language>
+      </characteristics>
+    </player>
+  </consulta1>
+
+  <consulta2>
+    <nationality>Argentina</nationality>
+    <nationality>Argentina</nationality>
+    <nationality>Argentina</nationality>
+  </consulta2>
+
+  <consulta3>
+    <name>Lionel Andrés Messi Cuccitini</name>
+    <name>Anssumane Fati</name>
+    <name>Anssumane Fati</name>
+    <name>Fede Valverde</name>
+    <name>Frenkie De Jong</name>
+    <name>Lioneeeeeel Andreeees Messiiiii</name>
+    <name>Sergio Ramos</name>
+    <name>Lionel Andrés Messi Cuccitini</name>
+    <name>Karim Benzema</name>
+  </consulta3>
+</consultes>

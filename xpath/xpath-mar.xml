@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<consultes>
+  <consulta1>
+    <especie>
+      <nom>Esponja de mar</nom>
+      <idioma>ca</idioma>
+      <familia>Invertebrats</familia>
+      <lloc>Port Fòrum - Barcelona</lloc>
+      <mida unitat="cm">10</mida>
+      <informacio_general>
+        <foto>https://www.cibsub.cat/rcs_gene/Axinella_verrucosa00.jpg</foto>
+        <descripcio>Les esponges o porífers (Porifera) són un embrancament d'animals simples i primitius ja coneguts des de temps remots. L'acceptació del clade Epitheliozoa comportaria que els porífers fossin tàxon és parafilètic, ja que els eumetazous en descendeixen.
+
+    Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sembla que no són avantpassats de cap altre grup d'animals i que, més aviat, constitueixen una branca sense continuïtat en l'arbre evolutiu.</descripcio>
+      </informacio_general>
+      <caracteristiques>
+        <caracteristica>Les esponges presenten cambres interiors revestides de coanòcits, cèl·lules que contenen un llarg flagel i un collar.</caracteristica>
+        <caracteristica>Aquestes cèl·lules fagociten les partícules alimentàries de l'aigua que flueix a través del cos de l'esponja i del seu sistema de canals, impulsada per incomptables sacsejades dels flagels.</caracteristica>
+        <caracteristica>Les colònies d'animals que no es desplacen en el mar necessiten que els corrents portin partícules alimentàries fins a la proximitat dels seus òrgans de captura, com els flagels o tentacles.</caracteristica>
+        <caracteristica>Però les esponges, gràcies a les cèl·lules que produeixen aquest corrent d'aigua en el seu interior, poden viure també en aigües quietes, amb l'única condició que continguin substàncies nutritives.</caracteristica>
+      </caracteristiques>
+    </especie>
+    <especie>
+      <nom>Clathrina clathrus</nom>
+      <idioma>ca</idioma>
+      <familia>Invertebrats</familia>
+      <lloc>Immersió poc fonda</lloc>
+      <mida unitat="cm">10</mida>
+      <informacio_general>
+        <foto>https://www.cibsub.cat/rcs_gene/Clathrina_clathrus06.jpg</foto>
+        <descripcio>Organisme</descripcio>
+      </informacio_general>
+      <caracteristiques>
+        <caracteristica>Organisme</caracteristica>
+      </caracteristiques>
+    </especie>
+    <especie>
+      <nom>Clathrina contorta</nom>
+      <idioma>ca</idioma>
+      <familia>Invertebrats</familia>
+      <lloc>Cap en particular</lloc>
+      <mida unitat="cm">15</mida>
+      <informacio_general>
+        <foto>https://www.cibsub.cat/rcs_gene/Clathrina_contorta00.jpg</foto>
+        <descripcio>Organisme</descripcio>
+      </informacio_general>
+      <caracteristiques>
+        <caracteristica>Organisme</caracteristica>
+      </caracteristiques>
+    </especie>
+    <especie>
+      <nom>Guancha lacunosa</nom>
+      <idioma>ca</idioma>
+      <familia>Invertebrats</familia>
+      <lloc>Cap en particular</lloc>
+      <mida unitat="cm">3</mida>
+      <informacio_general>
+        <foto>https://www.cibsub.cat/rcs_gene/Guancha_lacunosa02.jpg</foto>
+        <descripcio>Organisme</descripcio>
+      </informacio_general>
+      <caracteristiques>
+        <caracteristica>Organisme</caracteristica>
+      </caracteristiques>
+    </especie>
+    <especie>
+      <nom>Leucosolenia variabilis</nom>
+      <idioma>ca</idioma>
+      <familia>Invertebrats</familia>
+      <lloc>Immersió poc fonda</lloc>
+      <mida unitat="cm">2</mida>
+      <informacio_general>
+        <foto>https://www.cibsub.cat/rcs_gene/Leucosolenia_variabilis.jpg</foto>
+        <descripcio>Organisme</descripcio>
+      </informacio_general>
+      <caracteristiques>
+        <caracteristica>Organisme</caracteristica>
+      </caracteristiques>
+    </especie>
+    <especie>
+      <nom>Paraleucilla magna</nom>
+      <idioma>ca</idioma>
+      <familia>Invertebrats</familia>
+      <lloc>Immersió poc fonda</lloc>
+      <mida unitat="cm">4</mida>
+      <informacio_general>
+        <foto>https://www.cibsub.cat/rcs_gene/Paraleucilla_magna_2.jpg</foto>
+        <descripcio>Organisme</descripcio>
+      </informacio_general>
+      <caracteristiques>
+        <caracteristica>Organisme</caracteristica>
+      </caracteristiques>
+    </especie>
+  </consulta1>
+
+  <consulta2>
+    <mida unitat="cm">10</mida>
+    <mida unitat="cm">10</mida>
+    <mida unitat="cm">15</mida>
+    <mida unitat="cm">3</mida>
+    <mida unitat="cm">2</mida>
+    <mida unitat="cm">4</mida>
+  </consulta2>
+
+  <consulta3>
+    <descripcio>Les esponges o porífers (Porifera) són un embrancament d'animals simples i primitius ja coneguts des de temps remots. L'acceptació del clade Epitheliozoa comportaria que els porífers fossin tàxon és parafilètic, ja que els eumetazous en descendeixen.
+
+    Avui es creu que les esponges provenen evolutivament dels coanoflagel·lats. Sembla que no són avantpassats de cap altre grup d'animals i que, més aviat, constitueixen una branca sense continuïtat en l'arbre evolutiu.</descripcio>
+    <descripcio>Organisme</descripcio>
+    <descripcio>Organisme</descripcio>
+    <descripcio>Organisme</descripcio>
+    <descripcio>Organisme</descripcio>
+    <descripcio>Organisme</descripcio>
+  </consulta3>
+</consultes>
