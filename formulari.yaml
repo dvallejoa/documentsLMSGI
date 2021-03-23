@@ -1,0 +1,111 @@
+---
+football:
+  player:
+  - mail: j.cn.etm.pvy.utmb.fbtq@gmail.com
+    name: Lionel Andrés Messi Cuccitini
+    age: '33'
+    height:
+      "unit": cm
+      "text": '170'
+    nationality: Argentina
+    team: Barcelona
+    characteristics:
+      picture: https://i.imgur.com/iD3IzFH.jpg
+      like: Su desborde en el interior del área y su definición de cara a puerta.
+      language: Castellano
+  - mail: ste.lla.f.o.r.tun.ata.tmp@gmail.com
+    name: Anssumane Fati
+    age: '17'
+    height:
+      "unit": cm
+      "text": '178'
+    nationality: España
+    team: Barcelona
+    characteristics:
+      picture: https://i.imgur.com/pAE3Kr2.jpg
+      like: És molt jove i té molt futur per davant, demostra moltes ganes a l'hora de jugar..
+      language: Català
+  - mail: nylatmp+uhcmm@gmail.com
+    name: Anssumane Fati
+    age: '17'
+    height:
+      "unit": cm
+      "text": '178'
+    nationality: España
+    team: Barcelona
+    characteristics:
+      picture: https://i.imgur.com/kEyZQdZ.jpg
+      like: Es el futuro del Fútbol Club Barcelona.
+      language: Castellano
+  - mail: Dvz36750@gmail.com
+    name: Fede Valverde
+    age: '22'
+    height:
+      "unit": cm
+      "text": '182'
+    nationality: España
+    team: Real Madrid
+    characteristics:
+      picture: https://i.imgur.com/jbfAbwZ.png
+      like: Es muy guapo
+      language: Castellano
+  - mail: zaidhk10@gmail.com
+    name: Frenkie De Jong
+    age: '23'
+    height:
+      "unit": cm
+      "text": '180'
+    nationality: Países Bajos
+    team: Barcelona
+    characteristics:
+      picture: https://i.imgur.com/pAE3Kr2.jpg
+      like: Su visión de juego.
+      language: Castellano
+  - mail: Mitulade2cm@gmail.com
+    name: Lioneeeeeel Andreeees Messiiiii
+    age: '33'
+    height:
+      "unit": cm
+      "text": '170'
+    nationality: Argentina
+    team: Barcelona
+    characteristics:
+      picture: https://i.imgur.com/iD3IzFH.jpg
+      like: La clase, set la classss migo
+      language: Castellano
+  - mail: jsd92938@gmail.com
+    name: Sergio Ramos
+    age: '34'
+    height:
+      "unit": cm
+      "text": '184'
+    nationality: España
+    team: Real Madrid
+    characteristics:
+      picture: https://i.imgur.com/siC5lzz.jpg
+      like: Es de los mejores defensas del mundo, liderazgo y mucha garra.
+      language: Castellano
+  - mail: javier.garcia.161005@gmail.com
+    name: Lionel Andrés Messi Cuccitini
+    age: '33'
+    height:
+      "unit": cm
+      "text": '170'
+    nationality: Argentina
+    team: Barcelona
+    characteristics:
+      picture: https://i.imgur.com/EiMsF9Y.jpg
+      like: Su estilo de juego
+      language: Castellano
+  - mail: snabagen9@gmail.com
+    name: Karim Benzema
+    age: '32'
+    height:
+      "unit": cm
+      "text": '185'
+    nationality: Francia
+    team: Real Madrid
+    characteristics:
+      picture: https://i.imgur.com/HgGYNJl.jpg
+      like: Su estilo de juego
+      language: Castellano
